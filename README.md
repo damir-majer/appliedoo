@@ -1,5 +1,4 @@
 # Applied OO
-About Applied Object-Orientation (applied oo) http://www.appliedoo.org
 
 Applied OO is a collection of Guidelines that 
 Don't worry, the object-oriented programming is not reformulated here. From my point of view this is simply a logical further development to the topic object orientation and the successful mastering of it!
